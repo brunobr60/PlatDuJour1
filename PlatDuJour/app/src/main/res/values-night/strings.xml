@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="digite_email">Digite seu e-mail</string>
+    <string name="digite_senha">Digite sua senha</string>
+    <string name="nao_tem_cadastro">Não tem cadastro? Cadastre-se</string>
+    <string name="digite_nome">Digite o seu nome</string>
+    <string name="digite_cpf" translatable="false">Digite seu CPF</string>
+
+    <string name="botao_cadastrar">Cadastrar</string>
+
+</resources>

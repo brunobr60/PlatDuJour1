@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Bruno\\AndroidStudioProjects\\PlatDuJour\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_cadastro.xml",
+        "source": "C:\\Users\\Bruno\\AndroidStudioProjects\\PlatDuJour\\app\\src\\main\\res\\layout\\activity_cadastro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruno\\AndroidStudioProjects\\PlatDuJour\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_enviar_sms.xml",
+        "source": "C:\\Users\\Bruno\\AndroidStudioProjects\\PlatDuJour\\app\\src\\main\\res\\layout\\activity_enviar_sms.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruno\\AndroidStudioProjects\\PlatDuJour\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_tela_principal.xml",
+        "source": "C:\\Users\\Bruno\\AndroidStudioProjects\\PlatDuJour\\app\\src\\main\\res\\layout\\activity_tela_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruno\\AndroidStudioProjects\\PlatDuJour\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_localiza_gps.xml",
+        "source": "C:\\Users\\Bruno\\AndroidStudioProjects\\PlatDuJour\\app\\src\\main\\res\\layout\\activity_localiza_gps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruno\\AndroidStudioProjects\\PlatDuJour\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_mapa_loc.xml",
+        "source": "C:\\Users\\Bruno\\AndroidStudioProjects\\PlatDuJour\\app\\src\\main\\res\\layout\\activity_mapa_loc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruno\\AndroidStudioProjects\\PlatDuJour\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Bruno\\AndroidStudioProjects\\PlatDuJour\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

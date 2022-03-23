@@ -1,0 +1,32 @@
+com/example/platdujour/activity/MapaLoc.java
+ com.example.platdujour.activity.MapaLoc
+com/example/platdujour/databinding/ActivityMainBinding.java
+ com.example.platdujour.databinding.ActivityMainBinding
+com/example/platdujour/BuildConfig.java
+ com.example.platdujour.BuildConfig
+com/example/platdujour/activity/CadastroActivity.java
+ com.example.platdujour.activity.CadastroActivity
+ com.example.platdujour.activity.CadastroActivity$1
+com/example/platdujour/databinding/ActivityLocalizaGpsBinding.java
+ com.example.platdujour.databinding.ActivityLocalizaGpsBinding
+com/example/platdujour/databinding/ActivityMapaLocBinding.java
+ com.example.platdujour.databinding.ActivityMapaLocBinding
+com/example/platdujour/databinding/ActivityTelaPrincipalBinding.java
+ com.example.platdujour.databinding.ActivityTelaPrincipalBinding
+com/example/platdujour/DataBindingTriggerClass.java
+ com.example.platdujour.DataBindingTriggerClass
+com/example/platdujour/config/ConfiguracaoFirebase.java
+ com.example.platdujour.config.ConfiguracaoFirebase
+com/example/platdujour/activity/EnviarEmail.java
+ com.example.platdujour.activity.EnviarEmail
+com/example/platdujour/activity/telaPrincipal.java
+ com.example.platdujour.activity.telaPrincipal
+com/example/platdujour/databinding/ActivityCadastroBinding.java
+ com.example.platdujour.databinding.ActivityCadastroBinding
+com/example/platdujour/Model/Usuario.java
+ com.example.platdujour.Model.Usuario
+com/example/platdujour/activity/MinhaLocalizacaoListener.java
+ com.example.platdujour.activity.MinhaLocalizacaoListener
+com/example/platdujour/activity/MainActivity.java
+ com.example.platdujour.activity.MainActivity
+ com.example.platdujour.activity.MainActivity$1

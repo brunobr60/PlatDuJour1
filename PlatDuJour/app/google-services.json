@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "55690545329",
+    "project_id": "plat-4382e",
+    "storage_bucket": "plat-4382e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55690545329:android:52384e4a3e825f51e07a90",
+        "android_client_info": {
+          "package_name": "com.example.platdujour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55690545329-lra68ev3bdon4df6u457kckgbgd3pt3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.platdujour",
+            "certificate_hash": "2b640af122449bca60891141dcdd372b396a0676"
+          }
+        },
+        {
+          "client_id": "55690545329-n7aga1eqorgphqk1amuvh20nv7v07c77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrsEgWmbVnLv6gTULoP9PuSztIB49R6_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55690545329-n7aga1eqorgphqk1amuvh20nv7v07c77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,118 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.platdujour"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml
+10    <!--
+11         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+12         Google Maps Android API v2, but you must specify either coarse or fine
+13         location permissions for the "MyLocation" functionality.
+14    -->
+15
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:11:5-96
+16-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:11:22-76
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:12:5-98
+17-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:12:22-78
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:13:5-96
+18-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:13:22-76
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:14:5-83
+19-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:14:22-64
+20    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+20-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:15:5-92
+20-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:15:22-73
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:13:5-96
+21-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:13:22-76
+22
+23    <application
+23-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:18:5-43:19
+24        android:allowBackup="true"
+24-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:19:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.5.0] C:\Users\Bruno\.gradle\caches\transforms-3\b20d70b14f15690cac145ca1871d3078\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+26        android:debuggable="true"
+27        android:icon="@mipmap/ic_launcher"
+27-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:20:9-43
+28        android:label="@string/app_name"
+28-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:21:9-41
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:22:9-54
+30        android:supportsRtl="true"
+30-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:23:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.PlatDuJour" >
+32-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:24:9-48
+33        <activity
+33-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:25:9-27:40
+34            android:name="com.example.platdujour.activity.MapaLoc"
+34-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:26:13-45
+35            android:exported="false" />
+35-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:27:13-37
+36        <activity
+36-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:28:9-30:40
+37            android:name="com.example.platdujour.activity.telaPrincipal"
+37-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:29:13-51
+38            android:exported="false" />
+38-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:30:13-37
+39        <activity
+39-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:31:9-33:39
+40            android:name="com.example.platdujour.activity.CadastroActivity"
+40-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:32:13-54
+41            android:exported="true" />
+41-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:33:13-36
+42        <activity
+42-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:34:9-42:20
+43            android:name="com.example.platdujour.activity.MainActivity"
+43-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:35:13-50
+44            android:exported="true" >
+44-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:36:13-36
+45            <intent-filter>
+45-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:37:13-41:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:38:17-69
+46-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:38:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:40:17-77
+48-->C:\Users\Bruno\AndroidStudioProjects\PlatDuJour\app\src\main\AndroidManifest.xml:40:27-74
+49            </intent-filter>
+50        </activity>
+51        <activity
+51-->[com.google.android.gms:play-services-base:11.6.2] C:\Users\Bruno\.gradle\caches\transforms-3\3707da0204a4dd6463f3000489f00a9c\transformed\jetified-play-services-base-11.6.2\AndroidManifest.xml:19:9-172
+52            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+52-->[com.google.android.gms:play-services-base:11.6.2] C:\Users\Bruno\.gradle\caches\transforms-3\3707da0204a4dd6463f3000489f00a9c\transformed\jetified-play-services-base-11.6.2\AndroidManifest.xml:19:19-85
+53            android:exported="false"
+53-->[com.google.android.gms:play-services-base:11.6.2] C:\Users\Bruno\.gradle\caches\transforms-3\3707da0204a4dd6463f3000489f00a9c\transformed\jetified-play-services-base-11.6.2\AndroidManifest.xml:19:146-170
+54            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+54-->[com.google.android.gms:play-services-base:11.6.2] C:\Users\Bruno\.gradle\caches\transforms-3\3707da0204a4dd6463f3000489f00a9c\transformed\jetified-play-services-base-11.6.2\AndroidManifest.xml:19:86-145
+55
+56        <provider
+56-->[com.google.firebase:firebase-common:11.6.2] C:\Users\Bruno\.gradle\caches\transforms-3\5423956d45bd38fc9309201ddbe0bd5e\transformed\jetified-firebase-common-11.6.2\AndroidManifest.xml:6:9-194
+57            android:name="com.google.firebase.provider.FirebaseInitProvider"
+57-->[com.google.firebase:firebase-common:11.6.2] C:\Users\Bruno\.gradle\caches\transforms-3\5423956d45bd38fc9309201ddbe0bd5e\transformed\jetified-firebase-common-11.6.2\AndroidManifest.xml:6:79-143
+58            android:authorities="com.example.platdujour.firebaseinitprovider"
+58-->[com.google.firebase:firebase-common:11.6.2] C:\Users\Bruno\.gradle\caches\transforms-3\5423956d45bd38fc9309201ddbe0bd5e\transformed\jetified-firebase-common-11.6.2\AndroidManifest.xml:6:19-78
+59            android:exported="false"
+59-->[com.google.firebase:firebase-common:11.6.2] C:\Users\Bruno\.gradle\caches\transforms-3\5423956d45bd38fc9309201ddbe0bd5e\transformed\jetified-firebase-common-11.6.2\AndroidManifest.xml:6:144-168
+60            android:initOrder="100" />
+60-->[com.google.firebase:firebase-common:11.6.2] C:\Users\Bruno\.gradle\caches\transforms-3\5423956d45bd38fc9309201ddbe0bd5e\transformed\jetified-firebase-common-11.6.2\AndroidManifest.xml:6:169-192
+61
+62        <meta-data
+62-->[com.google.android.gms:play-services-basement:11.6.2] C:\Users\Bruno\.gradle\caches\transforms-3\09c4a9aa2750f4a3563c46da45a9c4c5\transformed\jetified-play-services-basement-11.6.2\AndroidManifest.xml:20:9-121
+63            android:name="com.google.android.gms.version"
+63-->[com.google.android.gms:play-services-basement:11.6.2] C:\Users\Bruno\.gradle\caches\transforms-3\09c4a9aa2750f4a3563c46da45a9c4c5\transformed\jetified-play-services-basement-11.6.2\AndroidManifest.xml:20:20-65
+64            android:value="@integer/google_play_services_version" />
+64-->[com.google.android.gms:play-services-basement:11.6.2] C:\Users\Bruno\.gradle\caches\transforms-3\09c4a9aa2750f4a3563c46da45a9c4c5\transformed\jetified-play-services-basement-11.6.2\AndroidManifest.xml:20:66-119
+65    </application>
+66
+67</manifest>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PlatDuJour</string>
+    <string name="digite_email">Digite seu e-mail</string>
+    <string name="digite_senha">Digite sua senha</string>
+    <string name="bt_logar">Logar</string>
+    <string name="nao_tem_cadastro">Não tem cadastro? Cadastre-se</string>
+    <string name="digite_nome">Digite o seu nome</string>
+    <string name="digite_cpf">Digite seu CPF</string>
+    <string name="digite_cep">Digite seu CEP</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
